@@ -1,0 +1,10 @@
+Voltage: 231,6mV
+Current: 28,17518mA
+Power: 6,525373mW
+Energy 6,814967mWh
+Hot side: 50°C
+Cold side: 38,19°C
+Temperature difference: 11,81°C
+Time: 2000s
+Avg. temp. difference: 15,39013°C
+Avg. Hot / Cold side: 49,29301//33,90298°C
