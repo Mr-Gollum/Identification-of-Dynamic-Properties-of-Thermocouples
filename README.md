@@ -18,5 +18,8 @@ Comparison of voltage profiles at the desired temperature of 80°C
 
 Download zip files from release. Open Arduino code in Arduino IDE and VS code in VS. Upload code to ESP32 and pair PC with ESP32. 
 Set COM ports in C# application and connect via connect button
+
 ![image](https://github.com/RealMrGollum/Identification-of-Dynamic-Properties-of-Thermocouples/assets/76939084/1bf4849a-0c26-4057-824c-bd3c8bddee2e)
 ![image](https://github.com/RealMrGollum/Identification-of-Dynamic-Properties-of-Thermocouples/assets/76939084/80026b02-5b06-45a6-8456-6d20995adccd)
+
+Set desired and maximal temperature, resistor value, COM ports, and operating mod in settings. 
