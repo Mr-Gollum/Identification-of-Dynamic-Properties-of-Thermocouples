@@ -24,4 +24,4 @@ Set COM ports in C# application and connect via the connect button
 
 Set desired and maximal temperature, resistor value, COM ports, and operating mode in settings. 
 After measurement, you can export data with the export button. The app will ask you if you want to keep data in charts. If you want to keep it click yes (Data export + keep data). If you do not need data in charts select "no" (Data export + clear data). If yoou want to break operation (export) then click "cancel" (No data export + keep data). 
-Data will look like in file 
+Data will look like in file ![a link](https://github.com/RealMrGollum/Identification-of-Dynamic-Properties-of-Thermocouples/tree/main/Measurement%20of%20SP1848)
