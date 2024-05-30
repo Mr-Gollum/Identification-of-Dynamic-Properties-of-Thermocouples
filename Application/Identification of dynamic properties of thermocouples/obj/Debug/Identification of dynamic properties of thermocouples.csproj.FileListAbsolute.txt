@@ -1,0 +1,12 @@
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\bin\Debug\Identification of dynamic properties of thermocouples.exe.config
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\bin\Debug\Identification of dynamic properties of thermocouples.exe
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\bin\Debug\Identification of dynamic properties of thermocouples.pdb
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\obj\Debug\Identification of dynamic properties of thermocouples.csproj.AssemblyReference.cache
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\obj\Debug\Identification of dynamic properties of thermocouples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\obj\Debug\Identification_of_dynamic_properties_of_thermocouples.Form1.resources
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\obj\Debug\Identification_of_dynamic_properties_of_thermocouples.Properties.Resources.resources
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\obj\Debug\Identification of dynamic properties of thermocouples.csproj.GenerateResource.cache
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\obj\Debug\Identification of dynamic properties of thermocouples.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\obj\Debug\Identification of dynamic properties of thermocouples.exe
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\obj\Debug\Identification of dynamic properties of thermocouples.pdb
+C:\Users\Mr. Gollum\Documents\1 programko\Identification of dynamic properties of thermocouples\obj\Debug\Identification_of_dynamic_properties_of_thermocouples.SettingForm.resources
