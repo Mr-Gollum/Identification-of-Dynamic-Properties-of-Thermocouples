@@ -2,7 +2,6 @@
 
 ![CompletedStructure1080](https://github.com/user-attachments/assets/32ca5746-1275-469f-9fa8-7ce83d34dd24)
 
-
 The work aims to identify the characteristics of thermocouples such as SP1848-27145 to 
 obtain a functional measurement system. This system is controlled by ESP32 and wirelessly 
 operated by a computer. The microcontroller control application is developed in C# .NET 
@@ -12,6 +11,8 @@ temperature conditions. Voltage is measured using the ADS1115 converter, tempera
 using DS18B20 sensors, and current and power are both computed. All information is 
 displayed in the application, from which graphs and raw data can be exported for further 
 processing.
+
+![Master Work.pdf[Slovak]](https://github.com/Mr-Gollum/Identification-of-Dynamic-Properties-of-Thermocouples/blob/main/Documents/Master%20Work%20%5BSlovak%5D.pdf)
 
 ![diplomovka-Schema drawio](https://github.com/RealMrGollum/Identification-of-Dynamic-Properties-of-Thermocouples/assets/76939084/c0f58295-329b-4a13-b90c-a8442b2b73c3)
 
