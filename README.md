@@ -1,4 +1,8 @@
 # Identification-of-Dynamic-Properties-of-Thermocouples
+
+![CompletedStructure1080](https://github.com/user-attachments/assets/32ca5746-1275-469f-9fa8-7ce83d34dd24)
+
+
 The work aims to identify the characteristics of thermocouples such as SP1848-27145 to 
 obtain a functional measurement system. This system is controlled by ESP32 and wirelessly 
 operated by a computer. The microcontroller control application is developed in C# .NET 
