@@ -1,4 +1,4 @@
-# Measurement-system-for-thermoelectric-modules
+# Measurement system for thermoelectric modules
 
 ![Completedstructure1080](https://github.com/user-attachments/assets/3b2427d6-4160-4dba-9bcb-e8ef23ab64e5)
 
