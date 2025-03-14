@@ -30,7 +30,7 @@ Master's thesis:
 
 ---
 # Scheme
-![diplomovka-Schema drawio](https://github.com/RealMrGollum/Identification-of-Dynamic-Properties-of-Thermocouples/assets/76939084/c0f58295-329b-4a13-b90c-a8442b2b73c3)
+![scheme](https://github.com/user-attachments/assets/79884803-7c06-436e-8a5a-b6c42a991a75)
 
 ---
 
