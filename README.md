@@ -1,4 +1,4 @@
-# Identification-of-Dynamic-Properties-of-Thermocouples
+# Identification of Dynamic Properties of Thermocouples
 
 ![Completedstructure1080](https://github.com/user-attachments/assets/3b2427d6-4160-4dba-9bcb-e8ef23ab64e5)
 
